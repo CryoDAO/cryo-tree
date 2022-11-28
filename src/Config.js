@@ -23,7 +23,7 @@ const Config = {
   github_repo_name: 'cryo-tree',
   github_base_branch: 'master',
   github_token: process.env.REACT_APP_TOKEN,
-  cover_image_url: 'https://fsnone-bb4c.kxcdn.com/wp-content/uploads/2021/10/Biotech-program-image.jpg',
+  cover_image_url: 'https://global-uploads.webflow.com/62792c49f89cb3ce12affeaa/631a137fc56a963acb353c95_tomorrow_header%20(2).jpg',
   tree_background_color: '#1D243C'
 }
 
