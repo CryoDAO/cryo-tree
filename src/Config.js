@@ -14,10 +14,6 @@ const Config = {
     {
       title: 'Technology',
       color: '#B8E986',
-    },
-    {
-      title: 'Off-target Application',
-      color: '#6580E1',
     }
   ],
   axis_enabled: false,

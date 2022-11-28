@@ -290,7 +290,7 @@ const Tree = () => {
           }}
         >
           <div className="header-block">
-            <img src="/foresight.png" alt="Foresight Institute" />
+            <img src="/cryodao-light.png" alt="CryoDAO" />
             <h1>{Config.title}</h1>
             <h3>{Config.subtitle}</h3>
           </div>
